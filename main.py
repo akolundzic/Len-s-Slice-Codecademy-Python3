@@ -38,6 +38,8 @@ pizza_and_prices.insert(4,[2.5, "peppers"])
 
 # 13 store the 3 cheapest
 three_cheapest = pizza_and_prices[:3][:]
+
+# 14 print the 3 cheapest pizzas
 print(three_cheapest)
 
 
